@@ -1,0 +1,6 @@
+{
+  "name": "Second Brain",
+  "description": "A minimalist, AI-powered knowledge base and semantic retrieval system with Google Drive, Gmail, and vector embeddings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
